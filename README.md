@@ -26,7 +26,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+### ✨ Coding Profiles
+ <a href="https://leetcode.com/Najir581" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/najir581" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Spicy_Syntax" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
 
+---
 ### 📂 Featured Projects
 | Project Name | Description | Link |
 |--------------|-------------|------|
@@ -65,15 +76,7 @@
   <a href="mailto:sk.najir8392@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Najir581" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/najir581" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Spicy_Syntax" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
