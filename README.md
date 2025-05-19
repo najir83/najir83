@@ -41,7 +41,7 @@
 ### 📂 Featured Projects
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| [Blogging App](https://github.com/najir83/BlogingApp) | A Todo app built with React.js and Tailwind CSS. | [Live Site](https://blogingapp-3h2j.onrender.com/) |
+| [Blogging App](https://github.com/najir83/BlogingApp) | A Blogging App build with node.js , ejs and Tailwind CSS. | [Live Site](https://blogingapp-3h2j.onrender.com/) |
 | [ToDo App](https://github.com/najir83/ToDoApp) | A Todo app built with React.js and Tailwind CSS. | [Live Site](https://to-do-app-opal-eta.vercel.app) |
 
 ---
