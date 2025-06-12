@@ -42,6 +42,7 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | [Blogging App](https://github.com/najir83/BlogingApp) | A Blogging App build with node.js , ejs and Tailwind CSS. | [Live Site](https://blogingapp-3h2j.onrender.com/) |
+| [Notes App](https://github.com/najir83/NoteApp) | A Notes App build with React.js , node.js , Express.js and Tailwind CSS. | [Live Site](https://note-app-pi-two-97.vercel.app/) |
 | [ToDo App](https://github.com/najir83/ToDoApp) | A Todo app built with React.js and Tailwind CSS. | [Live Site](https://to-do-app-opal-eta.vercel.app) |
 
 ---
