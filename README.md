@@ -43,6 +43,7 @@
 |--------------|-------------|------|
 | [Blogging App](https://github.com/najir83/Blog-App) | A Blogging App build with node.js as a backend and react +  Tailwind CSS in frontend. | [Live Site](https://blog-app-two-lime-47.vercel.app/) |
 | [Notes App](https://github.com/najir83/NoteApp) | A Notes App build with React.js , node.js , Express.js and Tailwind CSS. | [Live Site](https://note-app-pi-two-97.vercel.app/) |
+| [Bitlinks](https://github.com/najir83/bitlinks) | A url shortener app built with Next.js, MongoDB and Tailwind CSS. | [Live Site](https://bitlinks-oxtm.vercel.app/) |
 | [ToDo App](https://github.com/najir83/ToDoApp) | A Todo app built with React.js and Tailwind CSS. | [Live Site](https://to-do-app-opal-eta.vercel.app) |
 
 ---
