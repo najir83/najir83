@@ -42,6 +42,7 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | [Blogging App](https://github.com/najir83/Blog-App) | A Blogging App build with node.js as a backend and react +  Tailwind CSS in frontend. | [Live Site](https://blog-app-two-lime-47.vercel.app/) |
+| [ChatAI](https://github.com/najir83/ChatAI) |An AI-powered PDF chat application built with Next.js, Langchain, Qdrant, Google GenAI, Clerk, Zustand and MongoDB . | [Live Site](https://jahir.vercel.app/) |
 | [ChatMe](https://github.com/najir83/ChatMe) | An intelligent chatbot app  build with Next.js ,  Tailwind CSS, Clerk Auth , Google Gemini API . | [Live Site](https://chatme-kappa.vercel.app/) |
 | [BitTree](https://github.com/najir83/bittree) | A LinkTree app build with Next.js, MongoDB and Tailwind CSS. | [Live Site](https://bittreetr.vercel.app/) |
 | [Notes App](https://github.com/najir83/NoteApp) | A Notes App build with React.js , node.js , Express.js and Tailwind CSS. | [Live Site](https://note-app-pi-two-97.vercel.app/) |
