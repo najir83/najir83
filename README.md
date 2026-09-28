@@ -1,73 +1,96 @@
-<h1 align="center">Hi 👋, I'm Najir</h1>
-<h3 align="center">Engineering Student | Problem Solver | Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Sk Najir</h1>
+<h3 align="center">Full-Stack Engineer | Competitive Programmer | ICPC Regionalist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding+and+solving+problems;Always+learning+new+things!&center=true&width=500&height=45">
+  <a href="https://najir.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-najir.vercel.app-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Member+of+Technical+Staff+Intern+@+GeeksforGeeks;ICPC+Amritapuri+Regionalist;LeetCode+Guardian+(2192+Peak);Codeforces+Expert+(1692+Peak);Building+AI-Powered+Full-Stack+Apps&center=true&width=600&height=45&color=3B82F6">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **competitive programming & software projects**
-- 🌱 I’m currently learning **system design, backend engineering, and DSA**
-- 💬 Ask me about **C++, Python, Algorithms, Git, and Open Source**
-- ⚡ Fun fact: I'm always up for a debugging challenge!
+- 🔭 I’m currently working as a **Member of Technical Staff Intern at GeeksforGeeks**, architecting AI-powered code generation systems.
+- 🏆 **Competitive Programming:** **ICPC Amritapuri Regionalist** (Regional Rank 169/360) | **LeetCode Guardian** (Top 1.20%) | **Codeforces Expert** (Indian Rank < 800).
+- 💻 **Engineering Focus:** Building high-precision RAG pipelines, AST document parsers, and scalable full-stack applications.
+- 🌱 **Currently Learning:** Advanced System Design, Backend Engineering, and LLM integrations.
+- 🌐 **Portfolio:** Check out my complete work at **[najir.vercel.app](https://najir.vercel.app/)**
+
+---
+
+### 🏆 Competitive Programming & Achievements
+
+<p align="left">
+  <a href="https://leetcode.com/u/Najir581/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode_Guardian-2192_Rating-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Najir581" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces_Expert-1692_Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/najir581" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1850+_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+- 🏅 **ICPC Amritapuri Regional 2026:** Prelims Rank **271** (3000+ teams) | Regional Rank **169** (360 teams).
+- 🌍 **Codeforces:** Ranked **425th** in Round 1063 (Div. 2) among 20,000+ participants.
+- 🚀 **LeetCode:** Ranked **280th** in Weekly 422 out of 30,000+ global participants.
+- 🥇 **Hackathon:** 2nd Place at Arambh 2025 among 50+ college teams.
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Languages**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+**Databases, Cloud & AI**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat-square&logo=qdrant&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
-### ✨ Coding Profiles
- <a href="https://leetcode.com/Najir581" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/najir581" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Spicy_Syntax" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
 
----
 ### 📂 Featured Projects
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| [Blogging App](https://github.com/najir83/Blog-App) | A Blogging App build with node.js as a backend and react +  Tailwind CSS in frontend. | [Live Site](https://blog-app-two-lime-47.vercel.app/) |
-| [ChatAI](https://github.com/najir83/ChatAI) |An AI-powered PDF chat application built with Next.js, Langchain, Qdrant, Google GenAI, Clerk, Zustand and MongoDB . | [Live Site](https://jahir.vercel.app/) |
-| [ChatMe](https://github.com/najir83/ChatMe) | An intelligent chatbot app  build with Next.js ,  Tailwind CSS, Clerk Auth , Google Gemini API . | [Live Site](https://chatme-kappa.vercel.app/) |
-| [BitTree](https://github.com/najir83/bittree) | A LinkTree app build with Next.js, MongoDB and Tailwind CSS. | [Live Site](https://bittreetr.vercel.app/) |
-| [Notes App](https://github.com/najir83/NoteApp) | A Notes App build with React.js , node.js , Express.js and Tailwind CSS. | [Live Site](https://note-app-pi-two-97.vercel.app/) |
-| [Bitlinks](https://github.com/najir83/bitlinks) | A url shortener app built with Next.js, MongoDB and Tailwind CSS. | [Live Site](https://bitlinks-oxtm.vercel.app/) |
-| [ToDo App](https://github.com/najir83/ToDoApp) | A Todo app built with React.js and Tailwind CSS. | [Live Site](https://to-do-app-opal-eta.vercel.app) |
+
+| Project Name | Description | Tech Stack | Link |
+|--------------|-------------|------------|------|
+| **HR FAQ & Policy Assistant** | High-precision RAG pipeline with Hybrid Search (RRF) and 4-layer anti-hallucination. | `Node.js`, `Express`, `Qdrant`, `Gemini API` | [GitHub](https://github.com/najir83/Internal-HR-FAQ-Policy-Assistant) |
+| **ChatMe AI ChatBot** | Intelligent context-aware assistant with real-time data streaming and usage quotas. | `Next.js`, `Tailwind`, `MongoDB`, `Gemini API` | [Live Site](https://chatme-kappa.vercel.app/) |
+| **ChatAI** | AI-powered PDF chat application leveraging vector embeddings and GenAI. | `Next.js`, `Langchain`, `Qdrant`, `Clerk` | [Live Site](https://jahir.vercel.app/) |
+| **Full Stack Blogging App** | Secure platform with JWT auth, rich text editing (TinyMCE), and full CRUD. | `React`, `Node.js`, `Express`, `MongoDB` | [Live Site](https://blog-app-two-lime-47.vercel.app/) |
+| **BitTree** | A sleek LinkTree alternative with custom user profiles. | `Next.js`, `MongoDB`, `Tailwind CSS` | [Live Site](https://bittreetr.vercel.app/) |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=najir83&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=najir83&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=najir83&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=najir83&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najir83&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najir83&theme=dracula&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najir83&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -76,15 +99,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sk-najir-0b0177285/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sk.najir8392@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
+  <a href="https://najir.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=najir83&label=Profile%20views&color=blue&style=flat" alt="najir83" />
